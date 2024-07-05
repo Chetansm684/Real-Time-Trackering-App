@@ -16,3 +16,5 @@ This project is a real-time geolocation tracking application using Express.js fo
 - Interactive maps using Leaflet
 - High-accuracy geolocation updates
 
+<img width="1451" alt="Screenshot 2024-07-05 at 4 58 54 PM" src="https://github.com/Chetansm684/Real-Time-Trackering-App/assets/119873834/2beef38a-00a5-4150-b233-81211940a7d4">
+<img width="1455" alt="Screenshot 2024-07-05 at 4 58 21 PM" src="https://github.com/Chetansm684/Real-Time-Trackering-App/assets/119873834/d27f2354-0880-4ece-878a-1cf2f13e7285">
